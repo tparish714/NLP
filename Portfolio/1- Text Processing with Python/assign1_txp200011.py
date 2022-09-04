@@ -6,8 +6,6 @@ import sys
 import pathlib
 import re
 import pickle
-import nltk
-from nltk import word_tokenize
 
 
 # person class
