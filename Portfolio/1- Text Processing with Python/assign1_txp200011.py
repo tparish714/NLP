@@ -36,7 +36,6 @@ def process_data(rows):
 
         # check for duplicate id
         if fields[3] in emps.keys():
-
             print("\nFound duplicate ID:", fields[3])
 
         else:
