@@ -4,7 +4,7 @@
 ## Portfolio
 
 - [Overview of NLP](https://github.com/tparish714/NLP/blob/main/Portfolio/0-%20Getting%20Started/assign0.pdf)
-- [Text Processing with Pythoon](https://github.com/tparish714/NLP/tree/main/Portfolio/1-%20Text%20Processing%20with%20Python)
+- [Text Processing with Python](https://github.com/tparish714/NLP/tree/main/Portfolio/1-%20Text%20Processing%20with%20Python)
 
 
 ## Useful Resources
