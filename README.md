@@ -3,9 +3,9 @@
 
 ## Portfolio
 
-- [Overview of NLP](https://github.com/tparish714/NLP/blob/main/Portfolio/0-%20Getting%20Started/assign0.pdf)
+- [Overview of NLP](https://github.com/tparish714/NLP/blob/main/Portfolio/0-%20Getting%20Started/NPL%20Overview.pdf)
 - [Text Processing with Python](https://github.com/tparish714/NLP/tree/main/Portfolio/1-%20Text%20Processing%20with%20Python)
-- [Exploring NLTK]()
+- [Exploring NLTK](https://github.com/tparish714/NLP/blob/main/Portfolio/2-%20Exploring%20NLTK/Exploring%20NLTK.pdf)
 
 
 ## Useful Resources
