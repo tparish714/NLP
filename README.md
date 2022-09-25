@@ -5,8 +5,9 @@
 
 - [Overview of NLP](https://github.com/tparish714/NLP/blob/main/Portfolio/0-%20Getting%20Started/NPL%20Overview.pdf)
 - [Text Processing with Python](https://github.com/tparish714/NLP/tree/main/Portfolio/1-%20Text%20Processing%20with%20Python)
-- [Exploring NLTK](https://github.com/tparish714/NLP/blob/main/Portfolio/2-%20Exploring%20NLTK/Exploring%20NLTK.pdf)
+- [Exploring NLTK](https://github.com/tparish714/NLP/blob/main/Portfolio/2-%20Exploring%20NLTK/Exploring_NLTK.ipynb)
 - [Word Guessing Game](https://github.com/tparish714/NLP/blob/main/Portfolio/Word%20Gussing%20Game/WordGuess.py)
+- [WordNet](https://github.com/tparish714/NLP/blob/main/Portfolio/WordNet/WordNet.ipynb)
 
 
 ## Useful Resources
