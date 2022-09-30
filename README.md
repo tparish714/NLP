@@ -12,6 +12,6 @@
 
 ## Useful Resources
 - [Python RegEx](https://www.w3schools.com/python/python_regex.asp)
-- [Python File I/O](https://www.programiz.com/python-programming/file-operation)
+- [Python File I/O](https://realpython.com/read-write-files-python/)
 - [Python Pickle](https://www.digitalocean.com/community/tutorials/python-pickle-example)
 - [Python Lambda Functions](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
