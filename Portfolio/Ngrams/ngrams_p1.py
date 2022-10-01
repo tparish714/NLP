@@ -16,7 +16,7 @@ def readIn(fileName):
     # tokenize
     tokens= word_tokenize(raw)
     unigrams= [w for w in tokens if w.isalpha()]
-    bigrams= [(unigrams[k], unigrams[k+1]) for k in range(len(unigrams)-1)]
+    bigrams= list(ngram(unigrams, 2))
 
     # dictionary {word: count}
     uni_dict= {u:unigrams.count(u) for u in set(unigrams)}
