@@ -8,6 +8,7 @@
 - [Exploring NLTK](https://github.com/tparish714/NLP/blob/main/Portfolio/2-%20Exploring%20NLTK/Exploring_NLTK.ipynb)
 - [Word Guessing Game](https://github.com/tparish714/NLP/blob/main/Portfolio/Word%20Gussing%20Game/WordGuess.py)
 - [WordNet](https://github.com/tparish714/NLP/blob/main/Portfolio/WordNet/WordNet.ipynb)
+- [Ngrams](https://github.com/tparish714/NLP/tree/main/Portfolio/Ngrams)
 
 
 ## Useful Resources
