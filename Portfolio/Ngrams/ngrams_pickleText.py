@@ -1,5 +1,5 @@
-# Tera Parish       txp200011
-# Bridgette Bryant
+# Tera Parish       TXP200011
+# Bridgette Bryant  BMB180001
 
 import nltk
 import pickle
