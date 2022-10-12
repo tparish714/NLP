@@ -9,6 +9,7 @@
 - [Word Guessing Game](https://github.com/tparish714/NLP/blob/main/Portfolio/Word%20Gussing%20Game/WordGuess.py)
 - [WordNet](https://github.com/tparish714/NLP/blob/main/Portfolio/WordNet/WordNet.ipynb)
 - [Ngrams](https://github.com/tparish714/NLP/tree/main/Portfolio/Ngrams)
+- [Web Crawling and Scraping] (https://github.com/tparish714/NLP/blob/main/Portfolio/Web_Crawler/Russia%20and%20Ukraine%20War%20Knowledge%20Base.pdf)
 
 
 ## Useful Resources
