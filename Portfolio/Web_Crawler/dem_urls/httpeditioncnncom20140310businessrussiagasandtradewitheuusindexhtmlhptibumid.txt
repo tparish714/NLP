@@ -1,0 +1,2256 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CNN values your feedback 
+ 
+ 
+ 
+ 
+                                                        1. How relevant is this ad to you?
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                2. Did you encounter any technical issues?
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                        Video player was slow to load content
+                                                                         
+ 
+ 
+ 
+                                                                        Video content never loaded
+                                                                         
+ 
+ 
+ 
+                                                                        Ad froze or did not finish loading
+                                                                         
+ 
+ 
+ 
+                                                                        Video content did not start after ad
+                                                                         
+ 
+ 
+ 
+                                                                        Audio on ad was too loud
+                                                                         
+ 
+ 
+ 
+                                                                        Other issues
+                                                                         
+ 
+ 
+ 
+ 
+ 
+                                                                        Ad never loaded
+                                                                         
+ 
+ 
+ 
+                                                                        Ad prevented/slowed the page from loading
+                                                                         
+ 
+ 
+ 
+                                                                        Content moved around while ad loaded
+                                                                         
+ 
+ 
+ 
+                                                                        Ad was repetitive to ads I've seen previously
+                                                                         
+ 
+ 
+ 
+                                                                        Other issues
+                                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        Cancel
+                                                 
+ 
+                                                        Submit
+                                                 
+ 
+ 
+ 
+ 
+ 
+ Thank You! 
+ 
+                                        Your effort and contribution in providing this feedback is much
+                                        appreciated.
+                                 
+ 
+                                        Close
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ad Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ xml version="1.0" encoding="UTF-8"?                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+                  Markets
+                 
+ 
+ 
+ 
+                  
+                  Tech
+                 
+ 
+ 
+ 
+                  
+                  Media
+                 
+ 
+ 
+ 
+                  
+                  Success
+                 
+ 
+ 
+ 
+                  
+                  Perspectives
+                 
+ 
+ 
+ 
+                  
+                  Videos
+                 
+ 
+ 
+ 
+                  More
+                 
+ 
+ 
+                    Markets
+                   
+ 
+                    Tech
+                   
+ 
+                    Media
+                   
+ 
+                    Success
+                   
+ 
+                    Perspectives
+                   
+ 
+                    Videos
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Audio
+           
+ 
+            Live TV
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Log In
+       
+ 
+ 
+ 
+      My Account 
+ 
+ 
+ 
+ 
+ 
+          Settings
+         
+ 
+ 
+ 
+          Log Out
+         
+ 
+ 
+ 
+ 
+ Your CNN account 
+ Log in to your CNN account 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Log In
+       
+ 
+ 
+ 
+      My Account 
+ 
+ 
+ 
+ 
+ 
+          Settings
+         
+ 
+ 
+ 
+          Log Out
+         
+ 
+ 
+ 
+ 
+ Your CNN account 
+ Log in to your CNN account 
+ 
+ 
+ 
+ 
+ 
+ 
+            Live TV
+           
+ 
+            Audio
+           
+ 
+ 
+ 
+ Edition 
+ 
+ 
+                  US
+                 
+ 
+ 
+ 
+                  International
+                 
+ 
+ 
+ 
+                  Arabic
+                 
+ 
+ 
+ 
+                  Español
+                 
+ 
+ 
+ 
+ 
+                Edition 
+ 
+ 
+ 
+ 
+ 
+                  US
+                 
+ 
+ 
+ 
+                  International
+                 
+ 
+ 
+ 
+                  Arabic
+                 
+ 
+ 
+ 
+                  Español
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  Markets
+                 
+ 
+ 
+ 
+                  Tech
+                 
+ 
+ 
+ 
+                  Media
+                 
+ 
+ 
+ 
+                  Success
+                 
+ 
+ 
+ 
+                  Perspectives
+                 
+ 
+ 
+ 
+                  Videos
+                 
+ 
+ 
+ 
+ Follow CNN Business 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        US
+       
+ 
+ 
+ 
+            Crime + Justice
+           
+ 
+ 
+ 
+            Energy + Environment
+           
+ 
+ 
+ 
+            Extreme Weather
+           
+ 
+ 
+ 
+            Space + Science
+           
+ 
+ 
+ 
+ 
+ 
+        World
+       
+ 
+ 
+ 
+            Africa
+           
+ 
+ 
+ 
+            Americas
+           
+ 
+ 
+ 
+            Asia
+           
+ 
+ 
+ 
+            Australia
+           
+ 
+ 
+ 
+            China
+           
+ 
+ 
+ 
+            Europe
+           
+ 
+ 
+ 
+            India
+           
+ 
+ 
+ 
+            Middle East
+           
+ 
+ 
+ 
+            United Kingdom
+           
+ 
+ 
+ 
+ 
+ 
+        Politics
+       
+ 
+ 
+ 
+            SCOTUS
+           
+ 
+ 
+ 
+            Congress
+           
+ 
+ 
+ 
+            Facts First
+           
+ 
+ 
+ 
+            2020 Election
+           
+ 
+ 
+ 
+ 
+ 
+        Business
+       
+ 
+ 
+ 
+            Markets
+           
+ 
+ 
+ 
+            Tech
+           
+ 
+ 
+ 
+            Media
+           
+ 
+ 
+ 
+            Success
+           
+ 
+ 
+ 
+            Perspectives
+           
+ 
+ 
+ 
+            Video
+           
+ 
+ 
+ 
+ 
+ 
+        Opinion
+       
+ 
+ 
+ 
+            Political Op-Eds
+           
+ 
+ 
+ 
+            Social Commentary
+           
+ 
+ 
+ 
+ 
+ 
+        Health
+       
+ 
+ 
+ 
+            Life, But Better
+           
+ 
+ 
+ 
+            Fitness
+           
+ 
+ 
+ 
+            Food
+           
+ 
+ 
+ 
+            Sleep
+           
+ 
+ 
+ 
+            Mindfulness
+           
+ 
+ 
+ 
+            Relationships
+           
+ 
+ 
+ 
+ 
+ 
+        Entertainment
+       
+ 
+ 
+ 
+            Stars
+           
+ 
+ 
+ 
+            Screen
+           
+ 
+ 
+ 
+            Binge
+           
+ 
+ 
+ 
+            Culture
+           
+ 
+ 
+ 
+            Media
+           
+ 
+ 
+ 
+ 
+ 
+        Tech
+       
+ 
+ 
+ 
+            Innovate
+           
+ 
+ 
+ 
+            Gadget
+           
+ 
+ 
+ 
+            Foreseeable Future
+           
+ 
+ 
+ 
+            Mission: Ahead
+           
+ 
+ 
+ 
+            Upstarts
+           
+ 
+ 
+ 
+            Work Transformed
+           
+ 
+ 
+ 
+            Innovative Cities
+           
+ 
+ 
+ 
+ 
+ 
+        Style
+       
+ 
+ 
+ 
+            Arts
+           
+ 
+ 
+ 
+            Design
+           
+ 
+ 
+ 
+            Fashion
+           
+ 
+ 
+ 
+            Architecture
+           
+ 
+ 
+ 
+            Luxury
+           
+ 
+ 
+ 
+            Beauty
+           
+ 
+ 
+ 
+            Video
+           
+ 
+ 
+ 
+ 
+ 
+        Travel
+       
+ 
+ 
+ 
+            Destinations
+           
+ 
+ 
+ 
+            Food & Drink
+           
+ 
+ 
+ 
+            Stay
+           
+ 
+ 
+ 
+            Videos
+           
+ 
+ 
+ 
+ 
+ 
+        Sports
+       
+ 
+ 
+ 
+            Pro Football
+           
+ 
+ 
+ 
+            College Football
+           
+ 
+ 
+ 
+            Basketball
+           
+ 
+ 
+ 
+            Baseball
+           
+ 
+ 
+ 
+            Soccer
+           
+ 
+ 
+ 
+            Olympics
+           
+ 
+ 
+ 
+            Hockey
+           
+ 
+ 
+ 
+ 
+ 
+        Videos
+       
+ 
+ 
+ 
+            Live TV
+           
+ 
+ 
+ 
+            Digital Studios
+           
+ 
+ 
+ 
+            CNN Films
+           
+ 
+ 
+ 
+            HLN
+           
+ 
+ 
+ 
+            TV Schedule
+           
+ 
+ 
+ 
+            TV Shows A-Z
+           
+ 
+ 
+ 
+            CNNVR
+           
+ 
+ 
+ 
+ 
+ 
+        CNN Underscored
+       
+ 
+ 
+ 
+            Electronics
+           
+ 
+ 
+ 
+            Fashion
+           
+ 
+ 
+ 
+            Beauty
+           
+ 
+ 
+ 
+            Health & Fitness
+           
+ 
+ 
+ 
+            Home
+           
+ 
+ 
+ 
+            Reviews
+           
+ 
+ 
+ 
+            Deals
+           
+ 
+ 
+ 
+            Money
+           
+ 
+ 
+ 
+            Gifts
+           
+ 
+ 
+ 
+            Travel
+           
+ 
+ 
+ 
+            Outdoors
+           
+ 
+ 
+ 
+            Pets
+           
+ 
+ 
+ 
+            CNN Store
+           
+ 
+ 
+ 
+            Coupons
+           
+ 
+ 
+ 
+ 
+ 
+        More
+       
+ 
+ 
+ 
+            Photos
+           
+ 
+ 
+ 
+            Longform
+           
+ 
+ 
+ 
+            Investigations
+           
+ 
+ 
+ 
+            CNN Profiles
+           
+ 
+ 
+ 
+            CNN Leadership
+           
+ 
+ 
+ 
+            CNN Newsletters
+           
+ 
+ 
+ 
+            Work for CNN
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Markets
+               
+ 
+ see all 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOW 
+ 
+ 
+ 
+ 
+ 
+ S&P 500 
+ 
+ 
+ 
+ 
+ 
+ NASDAQ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured 
+ 
+ Fear & Greed Index 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  dial ranges  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  dial hand needle  
+ 
+ 
+ 
+ 
+ 
+  dial hand base  
+ 
+  dial hand number  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fear & Greed Index 
+ -----  is driving the US market  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          This Canadian community just unveiled a statue dedicated to ... Cheeto dust
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Columbus Day 2022: Here's what's open and closed
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Made in America is back, leaving US factories scrambling to find workers
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Something isn't loading properly. Please check back later. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+      Map: Why the EU and U.S. are out of step on Russia sanctions
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inez Torre ,  Ivana Kottasova  and  Irene Chapple , CNN
+		 
+ 
+ 
+  Updated
+        9:38 AM EDT, Mon March 24, 2014
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+            Link Copied!
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ad Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CNN 
+         — 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ad Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ad Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          More from CNN Business
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shannon Stapleton/Reuters 
+ 
+ 
+ 
+ 
+ 
+          Amazon pausing operations at some facilities as Hurricane Ian approaches Florida
+       
+ 
+          Sep 28, 2022
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Justin Sullivan/Getty Images 
+ 
+ 
+ 
+ 
+ 
+          Apple stock drops on concerns about iPhone 14 demand
+       
+ 
+          Sep 28, 2022
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ad Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          CNN Business Videos
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reuters 
+ 
+ 
+ 
+ 
+ 
+          Video: Half human-looking robot breaks speed record
+       
+ 
+          Sep 28, 2022
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eviation 
+ 
+ 
+ 
+ 
+ 
+          Watch world's first all-electric plane soar through test flight
+       
+ 
+          Sep 28, 2022
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          FULL SHOW 09/28/2022: Where to put your money in this bear market
+       
+ 
+          Sep 28, 2022
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brendan McDermid/Reuters 
+ 
+ 
+ 
+ 
+ 
+          Markets expert: It's time to play defense
+       
+ 
+          Sep 28, 2022
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ad Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Log In
+       
+ 
+ 
+ 
+      My Account 
+ 
+ 
+ 
+ 
+ 
+          Settings
+         
+ 
+ 
+ 
+          Log Out
+         
+ 
+ 
+ 
+ 
+ Your CNN account 
+ Log in to your CNN account 
+ 
+ 
+ 
+ 
+ 
+ 
+        Live TV
+       
+ 
+        Audio
+       
+ 
+ 
+ 
+ 
+ 
+ 
+        US
+       
+ 
+ 
+ 
+            Crime + Justice
+           
+ 
+ 
+ 
+            Energy + Environment
+           
+ 
+ 
+ 
+            Extreme Weather
+           
+ 
+ 
+ 
+            Space + Science
+           
+ 
+ 
+ 
+ 
+ 
+        World
+       
+ 
+ 
+ 
+            Africa
+           
+ 
+ 
+ 
+            Americas
+           
+ 
+ 
+ 
+            Asia
+           
+ 
+ 
+ 
+            Australia
+           
+ 
+ 
+ 
+            China
+           
+ 
+ 
+ 
+            Europe
+           
+ 
+ 
+ 
+            India
+           
+ 
+ 
+ 
+            Middle East
+           
+ 
+ 
+ 
+            United Kingdom
+           
+ 
+ 
+ 
+ 
+ 
+        Politics
+       
+ 
+ 
+ 
+            The Biden Presidency
+           
+ 
+ 
+ 
+            Facts First
+           
+ 
+ 
+ 
+            US Elections
+           
+ 
+ 
+ 
+ 
+ 
+        Business
+       
+ 
+ 
+ 
+            Markets
+           
+ 
+ 
+ 
+            Tech
+           
+ 
+ 
+ 
+            Media
+           
+ 
+ 
+ 
+            Success
+           
+ 
+ 
+ 
+            Perspectives
+           
+ 
+ 
+ 
+            Videos
+           
+ 
+ 
+ 
+ 
+ 
+        Opinion
+       
+ 
+ 
+ 
+            Political Op-Eds
+           
+ 
+ 
+ 
+            Social Commentary
+           
+ 
+ 
+ 
+ 
+ 
+        Health
+       
+ 
+ 
+ 
+            Life, But Better
+           
+ 
+ 
+ 
+            Fitness
+           
+ 
+ 
+ 
+            Food
+           
+ 
+ 
+ 
+            Sleep
+           
+ 
+ 
+ 
+            Mindfulness
+           
+ 
+ 
+ 
+            Relationships
+           
+ 
+ 
+ 
+ 
+ 
+        Entertainment
+       
+ 
+ 
+ 
+            Stars
+           
+ 
+ 
+ 
+            Screen
+           
+ 
+ 
+ 
+            Binge
+           
+ 
+ 
+ 
+            Culture
+           
+ 
+ 
+ 
+            Media
+           
+ 
+ 
+ 
+ 
+ 
+        Tech
+       
+ 
+ 
+ 
+            Innovate
+           
+ 
+ 
+ 
+            Gadget
+           
+ 
+ 
+ 
+            Foreseeable Future
+           
+ 
+ 
+ 
+            Mission: Ahead
+           
+ 
+ 
+ 
+            Upstarts
+           
+ 
+ 
+ 
+            Work Transformed
+           
+ 
+ 
+ 
+            Innovative Cities
+           
+ 
+ 
+ 
+ 
+ 
+        Style
+       
+ 
+ 
+ 
+            Arts
+           
+ 
+ 
+ 
+            Design
+           
+ 
+ 
+ 
+            Fashion
+           
+ 
+ 
+ 
+            Architecture
+           
+ 
+ 
+ 
+            Luxury
+           
+ 
+ 
+ 
+            Beauty
+           
+ 
+ 
+ 
+            Video
+           
+ 
+ 
+ 
+ 
+ 
+        Travel
+       
+ 
+ 
+ 
+            Destinations
+           
+ 
+ 
+ 
+            Food & Drink
+           
+ 
+ 
+ 
+            Stay
+           
+ 
+ 
+ 
+            News
+           
+ 
+ 
+ 
+            Videos
+           
+ 
+ 
+ 
+ 
+ 
+        Sports
+       
+ 
+ 
+ 
+            Pro Football
+           
+ 
+ 
+ 
+            College Football
+           
+ 
+ 
+ 
+            Basketball
+           
+ 
+ 
+ 
+            Baseball
+           
+ 
+ 
+ 
+            Soccer
+           
+ 
+ 
+ 
+            Olympics
+           
+ 
+ 
+ 
+            Hockey
+           
+ 
+ 
+ 
+ 
+ 
+        Videos
+       
+ 
+ 
+ 
+            Live TV
+           
+ 
+ 
+ 
+            Digital Studios
+           
+ 
+ 
+ 
+            CNN Films
+           
+ 
+ 
+ 
+            HLN
+           
+ 
+ 
+ 
+            TV Schedule
+           
+ 
+ 
+ 
+            TV Shows A-Z
+           
+ 
+ 
+ 
+            CNNVR
+           
+ 
+ 
+ 
+ 
+ 
+        Audio
+       
+ 
+ 
+ 
+ 
+ 
+        CNN Underscored
+       
+ 
+ 
+ 
+            Electronics
+           
+ 
+ 
+ 
+            Fashion
+           
+ 
+ 
+ 
+            Beauty
+           
+ 
+ 
+ 
+            Health & Fitness
+           
+ 
+ 
+ 
+            Home
+           
+ 
+ 
+ 
+            Reviews
+           
+ 
+ 
+ 
+            Deals
+           
+ 
+ 
+ 
+            Money
+           
+ 
+ 
+ 
+            Gifts
+           
+ 
+ 
+ 
+            Travel
+           
+ 
+ 
+ 
+            Outdoors
+           
+ 
+ 
+ 
+            Pets
+           
+ 
+ 
+ 
+            CNN Store
+           
+ 
+ 
+ 
+            Coupons
+           
+ 
+ 
+ 
+ 
+ 
+        Weather
+       
+ 
+ 
+ 
+            Climate
+           
+ 
+ 
+ 
+            Storm Tracker
+           
+ 
+ 
+ 
+            Wildfire Tracker
+           
+ 
+ 
+ 
+            Video
+           
+ 
+ 
+ 
+ 
+ 
+        More
+       
+ 
+ 
+ 
+            Photos
+           
+ 
+ 
+ 
+            Longform
+           
+ 
+ 
+ 
+            Investigations
+           
+ 
+ 
+ 
+            CNN Profiles
+           
+ 
+ 
+ 
+            CNN Leadership
+           
+ 
+ 
+ 
+            CNN Newsletters
+           
+ 
+ 
+ 
+            Work for CNN
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ xml version="1.0" encoding="UTF-8"?                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+            Audio
+           
+ 
+            Live TV
+           
+ 
+ 
+ Follow CNN Business 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Log In
+       
+ 
+ 
+ 
+      My Account 
+ 
+ 
+ 
+ 
+ 
+          Settings
+         
+ 
+ 
+ 
+          Log Out
+         
+ 
+ 
+ 
+ 
+ Your CNN account 
+ Log in to your CNN account 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. 
+ 
+ 
+          Terms of Use
+         
+ 
+          Privacy Policy
+         
+ 
+ 
+ 
+          Ad Choices
+         
+ 
+          Accessibility & CC
+         
+ 
+          About
+         
+ 
+          Newsletters
+         
+ 
+          Transcripts
+         
+ 
+ © 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.   CNN Sans ™ & © 2016 Cable News Network. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
