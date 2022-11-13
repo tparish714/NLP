@@ -11,6 +11,7 @@
 - [Ngrams](https://github.com/tparish714/NLP/tree/main/Portfolio/Ngrams)
 - [Web Crawling and Scraping](https://github.com/tparish714/NLP/blob/main/Portfolio/Web_Crawler/Russia%20and%20Ukraine%20War%20Knowledge%20Base.pdf)
 - [Sentence Parsing](https://github.com/tparish714/NLP/blob/main/Portfolio/Syntax_Parsing.pdf)
+- [ML: Naïve Bayes, Logistic Regression, Neural Network](https://github.com/tparish714/NLP/blob/main/Portfolio/Author_Attribution.ipynb)
 
 
 ## Useful Resources
